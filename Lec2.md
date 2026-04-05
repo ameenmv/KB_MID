@@ -1,5 +1,5 @@
 # Knowledge Base & Knowledge Engineering
-### Knowledge Base · CS 2nd Material
+### Knowledge Base 
 
 ---
 

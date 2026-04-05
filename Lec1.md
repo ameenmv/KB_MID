@@ -1,5 +1,5 @@
 # Expert Systems (ES)
-### Knowledge Base · CS 2nd Material
+### Knowledge Base 
 
 ---
 
